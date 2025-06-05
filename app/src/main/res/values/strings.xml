@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokédex Interactiva CBT02</string>
+    <string name="pokemon_search_hint">Buscar Pokémon...</string>
+    <string name="loading">Cargando...</string>
+    <string name="error_network">Error de conexión</string>
+    <string name="pokemon_not_found">Pokémon no encontrado</string>
+</resources>

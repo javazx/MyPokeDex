@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de tu Pokédex -->
+    <color name="primary_color">#FF6B35</color>
+    <color name="primary_dark">#E65100</color>
+    <color name="secondary_color">#F7931E</color>
+    <color name="accent_color">#FFD23F</color>
+    <color name="background_color">#F8F9FA</color>
+    <color name="link_color">#007BFF</color>
+    <color name="video_color">#6F42C1</color>
+    <color name="divider_color">#E9ECEF</color>
+
+    <!-- Colores estándar de Material Design (puedes ajustarlos) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
